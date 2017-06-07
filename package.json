@@ -1,0 +1,30 @@
+{
+  "name": "learn-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trihm3011/LearnRxJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trihm3011/LearnRxJS/issues"
+  },
+  "homepage": "https://github.com/trihm3011/LearnRxJS#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.2",
+    "webpack": "^3.0.0-rc.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "dependencies": {
+    "rxjs": "^5.4.0"
+  }
+}
